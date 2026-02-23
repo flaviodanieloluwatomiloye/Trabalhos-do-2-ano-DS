@@ -1,0 +1,15 @@
+.tabela{
+    margin: auto;
+    border-collapse: collapse;
+    width: 75%;
+}
+
+td, thead{
+    padding: 10px;
+    border: solid black;
+    text-align: center;
+}
+
+value {
+    text-align: center;
+}
